@@ -5,3 +5,5 @@ profile                                   u:object_r:lineage_profile_service:s0
 
 # Long screenshot
 longshot                                  u:object_r:longshot_service:s0
+
+pocket                                    u:object_r:pocket_service:s0
