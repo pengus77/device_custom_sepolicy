@@ -9,3 +9,5 @@ hal_client_domain(system_server, hal_lineage_touch)
 add_service(system_server, longshot_service)
 
 allow system_server pocket_service:service_manager { add find };
+
+hal_client_domain(system_server, hal_lineage_powershare)
